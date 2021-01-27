@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/guilherme-parente-758015150/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/guilherme-parente-758015150/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/guilherme-parente-758015150/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/guilherme-parente-758015150/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/guilherme.parente.9803/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/guilherme.parente.9803/" height="30" width="40" /></a>
 </p>
 
