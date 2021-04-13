@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guilhermeparente17" alt="guilhermeparente17" /></a> </p>
 
-- 🔭 I’m currently working on [WMJ Engenharia](https://github.com/guilhermeparente17/WMJ-Engenharia)
+- 🔭 I’m currently working on [WMJ Engenharia](https://github.com/guilhermeparente17/WMJEngenharia)
 
 - 🌱 I’m currently learning **ReactJS, NodeJs and React Native**
 
