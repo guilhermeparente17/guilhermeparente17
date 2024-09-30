@@ -1,4 +1,3 @@
-
 <h2 align="left">Olá 👋, me chamo Guilherme Parente e sou desenvolvedor front-end!</h2>
 
 ###
@@ -69,6 +68,29 @@
 ###
 
 <div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/guilhermeparente17/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
 </div>
 
 ###
