@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Guilherme Parente 👋</h1>
 
 <h3 align="center">
-Desenvolvedor Full Stack em evolução | React • Next.js • NestJS • TypeScript
+Desenvolvedor Full Stack | React • Next.js • NestJS • TypeScript
 </h3>
 
 <p align="center">
@@ -12,11 +12,11 @@ Apaixonado por tecnologia e desenvolvimento de software, atualmente aprofundando
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor com experiência em Front-end e em transição para Back-end
+- 💻 Desenvolvedor com experiência em Front-end, Back-end e Cyber Security
 - 🌱 Estudando **NestJS, Prisma, PostgreSQL, Docker e JWT**
 - ⚡ Focado em escrever código limpo, escalável e de fácil manutenção
 - 📚 Sempre aprendendo novas tecnologias
-- 🎯 Objetivo: atuar como Desenvolvedor Full Stack
+- 🎯 Objetivo: Ser um especialista na área do desenvolvimento de software
 
 ---
 
